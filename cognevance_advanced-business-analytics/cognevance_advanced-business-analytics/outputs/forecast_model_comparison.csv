@@ -1,0 +1,4 @@
+,MAE,RMSE,MAPE_%,R2
+"Seasonal naive (same weekday, 4 wks ago)",3248.164,5269.904,15.448,0.838
+Ridge regression,1969.765,2880.803,9.539,0.952
+Gradient boosting (tuned),1384.646,2141.48,6.729,0.973
